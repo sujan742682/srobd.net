@@ -5,7 +5,7 @@ const AdminLayout = () => {
     const {TotalScan,TotalUser}=data
   return (
     <>
-        <p>Total user: {TotalUser}</p>
+        <p>Total user are: {TotalUser}</p>
         <p>Total scan: {TotalScan}</p>
     </>
   )
